@@ -1,1 +1,2 @@
-configTest 두번째 환경파일
+config-test:
+  name: 두번째 환경파일
