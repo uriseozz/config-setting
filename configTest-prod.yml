@@ -1,2 +1,2 @@
-configtest:
-  value: 두번째 환경파일
+configTest:
+  value: helloWorld!456
